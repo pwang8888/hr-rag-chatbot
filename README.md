@@ -14,7 +14,7 @@ Here, the chatbot is specialized for **HR policies**, letting employees ask ques
 - “What are the vacation policies?”  
 - “How does the performance review process work?”  
 - “What healthcare benefits are available?”  
-<img width="512" height="768" alt="112a0a36-b0a7-4ef0-b84f-38884b0312ba" src="https://github.com/user-attachments/assets/7c813169-aae3-487e-b52f-3e53b513556b" />
+<img width="358.4" height="537.6" alt="112a0a36-b0a7-4ef0-b84f-38884b0312ba" src="https://github.com/user-attachments/assets/7c813169-aae3-487e-b52f-3e53b513556b" />
 
 ---
 
